@@ -13,18 +13,18 @@ Commercial benefit of This Site
 4. Get commission from project collaborationa
 
 
-Define problem statement –For any project to have value, it must be a solution to a specific problem, if your project does not solve any problem then no one will need it/use it.
+# Problem statement
 
 ---As a student in computer science I've realized that most companies hire people with a great experience on technology...here at geeks we offer newbies in tech world to work and solve real life time projects as freelancers these will not only improve there skills but also there portfolio which they can use to get jobs easily
 
-State the purpose of your project: What it does in terms of functionality 
+# Purpose of my project
 track project progress
 rank our works
 track daily interaction on our sites
 student tutorials
 project collaboration
 
-HOW TO ACCESS THE SITE
+# HOW TO ACCESS THE SITE
 
 -----On Geeks site we first have a create account form that is connected to server to record your name, email contacts and password
 NB: ANY PASSWORD 6 CHARACTERS/LETTER AND ABOVE OR IT WILL BRING AN ERROR
@@ -33,8 +33,7 @@ PASSWORD MUST MATCH
 --+ we also have a rank of the freelancers according to customer satisfaction
 ---you can view each freelancers portfolio and see project they've worked with
 
-
-State the technical requirements for your project: This includes
+# Technical requirements
 Programming language---- html css JavaScript and php
 Framework used if any----bootstrap
 Coding environment---- notepad++
@@ -42,7 +41,7 @@ database system----Xamp Server
 Hosting platform if you will host your system
 etc
 
-USER INTERFACE
+# USER INTERFACE
 
 First your browser type localhost/login.php to access the create an account form after which you'll be directed to my site for reference once you create an account
 Click on portfolio to view my portfolio lol but this part will be portfolios of the freelancers.
